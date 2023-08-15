@@ -29,17 +29,6 @@ cd ListaDeTarefas
 
 npm install
 
-
-## Configuração do Firebase
-
-Antes de executar o projeto, é necessário configurar o Firebase:
-
-1. Crie um projeto no [Console do Firebase](https://console.firebase.google.com/).
-
-2. Crie um aplicativo da Web no projeto Firebase.
-
-3. Copie as configurações de configuração do Firebase (chave da API, ID do projeto etc.) e cole-as no arquivo `.env` do seu projeto. Um exemplo de como o arquivo `.env` deve ser formatado está disponível no arquivo `.env.example`.
-
 ## Executando o Projeto
 
 Para executar o projeto, utilize o seguinte comando:
